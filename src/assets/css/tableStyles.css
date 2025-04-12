@@ -1,0 +1,6 @@
+/* tableStyles.css */
+.table-container {
+    --mrt-base-background-color: #f0f4f8;
+    --mrt-header-background-color: #f87171; /* bg-red-500 */
+  }
+  
